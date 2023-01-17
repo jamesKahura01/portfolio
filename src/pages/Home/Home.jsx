@@ -1,8 +1,9 @@
 import React from "react";
-import PageBackground from "../../assets/img/PageBackground";
-import { useAppContext } from "../../hooks/useAppContext";
-import styles from "./Home.module.scss";
 import { NavLink } from "react-router-dom";
+
+import styles from "./Home.module.scss";
+import { useAppContext } from "hooks/useAppContext";
+import PageBackground from "components/PageBackground/PageBackground";
 
 const Home = () => {
   const { greeting } = useAppContext();

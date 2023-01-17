@@ -1,7 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { useAppContext } from '../../hooks/useAppContext';
+
 import LogoStyles from './Logo.module.scss';
+import { useAppContext } from 'hooks/useAppContext';
 
 const Logo = ({ styles = null }) => {
   const { setIsActiveMenu } = useAppContext();

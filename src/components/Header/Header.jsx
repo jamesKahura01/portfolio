@@ -1,8 +1,10 @@
 import React from 'react';
+
+import Logo from 'components/Logo/Logo';
+import Navigation from 'components/Navigation/Navigation';
+import BurgerMenuButton from 'components/BurgerMenuButton/BurgerMenuButton';
+
 import styles from './Header.module.scss';
-import Logo from '../Logo/Logo';
-import Navigation from '../Navigation/Navigation';
-import BurgerMenuButton from '../BurgerMenuButton/BurgerMenuButton';
 
 const Header = () => {  
   return (

@@ -1,8 +1,9 @@
 import React from 'react';
-import PageBackground from '../../assets/img/PageBackground';
-import { useAppContext } from '../../hooks/useAppContext';
-import Work from '../../components/Work/Work';
+
 import styles from './Works.module.scss';
+import { useAppContext } from 'hooks/useAppContext';
+import PageBackground from 'components/PageBackground/PageBackground';
+import Work from 'components/Work/Work';
 
 const Works = () => {
   const { works } = useAppContext();

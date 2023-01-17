@@ -1,9 +1,9 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import classNames from "classnames";
 
 import styles from "./Navigation.module.scss";
-import { NavLink } from "react-router-dom";
-import { useAppContext } from "../../hooks/useAppContext";
+import { useAppContext } from "hooks/useAppContext";
 
 const Navigation = () => {
   const { isActiveMenu } = useAppContext();

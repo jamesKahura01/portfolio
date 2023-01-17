@@ -2,7 +2,7 @@ import React from 'react';
 import classNames from 'classnames';
 
 import styles from './BurgerMenuButton.module.scss';
-import { useAppContext } from '../../hooks/useAppContext';
+import { useAppContext } from 'hooks/useAppContext';
 
 const BurgerMenu = () => {
   const { isActiveMenu, setIsActiveMenu } = useAppContext();
