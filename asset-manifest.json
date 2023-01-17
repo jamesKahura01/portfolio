@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.aa3db89a.css",
-    "main.js": "/portfolio/static/js/main.122b4b79.js",
-    "static/media/memory_game.png": "/portfolio/static/media/memory_game.ca9be9dd2de0e9a2864e.png",
+    "main.js": "/portfolio/static/js/main.ae47936b.js",
     "static/media/works.webp": "/portfolio/static/media/works.fea869525aa26872eef3.webp",
-    "static/media/frogger.png": "/portfolio/static/media/frogger.d32837bdde75cef41c52.png",
-    "static/media/activebox.png": "/portfolio/static/media/activebox.5faaa492917bdb3785e3.png",
-    "static/media/friends_app.png": "/portfolio/static/media/friends_app.ac18a149deb3d6a7ea23.png",
-    "static/media/js_dom.png": "/portfolio/static/media/js_dom.211a3351ad8f7605b6aa.png",
     "static/media/mail.ico": "/portfolio/static/media/mail.47ef77a441e1abcb9b76.ico",
     "static/media/telegram.ico": "/portfolio/static/media/telegram.1044d4bdf282a41fb594.ico",
-    "static/media/kit.png": "/portfolio/static/media/kit.0815c910ce63c49c2ff4.png",
     "static/media/contacts.webp": "/portfolio/static/media/contacts.c32cd408392ff5b6d2f4.webp",
-    "static/media/mybike.png": "/portfolio/static/media/mybike.9a8cbd5e4e1b4730e3fb.png",
-    "static/media/affiliate.png": "/portfolio/static/media/affiliate.9e73064269af92ad47fd.png",
+    "static/media/memory_game.webp": "/portfolio/static/media/memory_game.709cabbc542be19d8cc2.webp",
     "static/media/about.webp": "/portfolio/static/media/about.c61562cd265d8303f471.webp",
+    "static/media/mock_google.webp": "/portfolio/static/media/mock_google.d248fb0ba7a4676e3b92.webp",
     "static/media/home.webp": "/portfolio/static/media/home.0a25ec34128e38e1b87e.webp",
     "static/media/phone.png": "/portfolio/static/media/phone.a45cf414bc683ef0cfe9.png",
-    "static/media/obliksoft.png": "/portfolio/static/media/obliksoft.0611acdc85a4f1c66c2d.png",
     "static/media/CV_Ihor_Kuchin.pdf": "/portfolio/static/media/CV_Ihor_Kuchin.6a154ec2fbac05d75142.pdf",
-    "static/media/creative_bakery.png": "/portfolio/static/media/creative_bakery.fe1ca5b515d50f613bb4.png",
+    "static/media/kit.webp": "/portfolio/static/media/kit.29c97ab009fdb6756d79.webp",
+    "static/media/js_dom.webp": "/portfolio/static/media/js_dom.2e1e2edae97ced8a4157.webp",
+    "static/media/mybike.webp": "/portfolio/static/media/mybike.2d668140416fbe1cbe80.webp",
+    "static/media/friends_app.webp": "/portfolio/static/media/friends_app.37cc187e03a17ff3214e.webp",
+    "static/media/creative_bakery.webp": "/portfolio/static/media/creative_bakery.4106b7f01616bb5ba7b3.webp",
+    "static/media/obliksoft.webp": "/portfolio/static/media/obliksoft.b4c807227789fd167bc5.webp",
+    "static/media/frogger.webp": "/portfolio/static/media/frogger.86e117b95eb9d20d183a.webp",
+    "static/media/affiliate.webp": "/portfolio/static/media/affiliate.d5e28cba5d155542ae47.webp",
+    "static/media/activebox.webp": "/portfolio/static/media/activebox.d876150f46fea94668b9.webp",
     "static/media/github.webp": "/portfolio/static/media/github.a3c87fbe077f33acaa0a.webp",
     "static/media/icomoon.svg?7aok69": "/portfolio/static/media/icomoon.3b7f586fa3adef21ef61.svg",
     "static/media/icomoon.eot?7aok69": "/portfolio/static/media/icomoon.9e7d7a3f03ca24fb53cb.eot",
@@ -28,10 +29,10 @@
     "static/media/icomoon.ttf?7aok69": "/portfolio/static/media/icomoon.32662cd3b951f0c02d1d.ttf",
     "index.html": "/portfolio/index.html",
     "main.aa3db89a.css.map": "/portfolio/static/css/main.aa3db89a.css.map",
-    "main.122b4b79.js.map": "/portfolio/static/js/main.122b4b79.js.map"
+    "main.ae47936b.js.map": "/portfolio/static/js/main.ae47936b.js.map"
   },
   "entrypoints": [
     "static/css/main.aa3db89a.css",
-    "static/js/main.122b4b79.js"
+    "static/js/main.ae47936b.js"
   ]
 }
