@@ -1,16 +1,17 @@
 // The pictures size for the portfolio works is 800x490
 import React from 'react';
 import ImgStyles from './Img.module.scss';
-import keepInTouch from './works/kit.png';
-import obliksoft from './works/obliksoft.png';
-import friendsApp from './works/friends_app.png';
-import memoryPairGame from './works/memory_game.png';
-import creativeBackery from './works/creative_bakery.png';
-import myBike from './works/mybike.png';
-import activeBox from './works/activebox.png';
-import frogger from './works/frogger.png';
-import jsDOM from './works/js_dom.png';
-import affiliate from './works/affiliate.png';
+import keepInTouch from './works/kit.webp';
+import obliksoft from './works/obliksoft.webp';
+import friendsApp from './works/friends_app.webp';
+import memoryPairGame from './works/memory_game.webp';
+import creativeBackery from './works/creative_bakery.webp';
+import myBike from './works/mybike.webp';
+import activeBox from './works/activebox.webp';
+import frogger from './works/frogger.webp';
+import jsDOM from './works/js_dom.webp';
+import affiliate from './works/affiliate.webp';
+import mockGoogle from './works/mock_google.webp';
 
 const WorkImage = ({ id }) => {
 
@@ -20,6 +21,16 @@ const WorkImage = ({ id }) => {
     return (
       <img
         src={keepInTouch}
+        alt={id}
+        className={ImgStyles.work}
+      />
+    );
+
+    case 'Mock Google Search':
+
+    return (
+      <img
+        src={mockGoogle}
         alt={id}
         className={ImgStyles.work}
       />

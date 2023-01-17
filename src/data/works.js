@@ -7,7 +7,14 @@ const works = [
     demoViev: "https://ik-web.github.io/keep-in-touch/",
     codeView: "https://github.com/ik-web/keep-in-touch",
   },
-
+  {
+    name: "Mock Google Search",
+    technologies: "React, Material UI, JS, HTML, CSS",
+    description:
+      "Imitation of Google home page, with search query and voice input using Google Search Engine API.",
+    demoViev: "https://ik-web.github.io/mock_google_search/",
+    codeView: "https://github.com/ik-web/mock_google_search",
+  },
   {
     name: "Affiliate",
     technologies: "HTML, JS, TailwindCSS",
