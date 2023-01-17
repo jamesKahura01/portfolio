@@ -19,7 +19,8 @@ learn new technologies.
 
 ### Skills
 >- Typescript, JavaScript (ES2015 - 2019) 
->- React, Redux, MobX, Next.js
+>- React, Redux, MobX
+>- Vue, Vuex
 >- HTML, CSS, Sass (SCSS), BEM
 >- Material UI, TailwindCSS, Bootstrap, Bulma
 >- Fetch, REST API, SQL
