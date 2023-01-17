@@ -1,11 +1,11 @@
 import React from "react";
 
 import styles from "./About.module.scss";
-import PageBackground from "../../assets/img/PageBackground";
-import { useAppContext } from "../../hooks/useAppContext";
-import Skill from "../../components/Skill/Skill";
-import Expirience from "../../components/Expirience/Expirience";
-import Education from "../../components/Education/Education";
+import { useAppContext } from "hooks/useAppContext";
+import PageBackground from "components/PageBackground/PageBackground";
+import Expirience from "components/Expirience/Expirience";
+import Skill from "components/Skill/Skill";
+import Education from "components/Education/Education";
 
 const About = () => {
   const { education, skills, expirience } = useAppContext();

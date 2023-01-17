@@ -1,6 +1,5 @@
 import React from "react";
 
-import Icon from "../../assets/icons/Icon";
 import styles from "./Contact.module.scss";
 
 const compileLinkPath = (name, link) => {
@@ -26,7 +25,12 @@ const Contact = ({ contact }) => {
   return (
     <div className={styles.contact}>
       <div className={styles.contact__info}>
-        <Icon id={contact.name} />
+        <img
+          src={contact.icon}
+          alt={contact.name}
+          className={styles.contact__icon}
+        />
+
         <span>{linkInfo}</span>
       </div>
 

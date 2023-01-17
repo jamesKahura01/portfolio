@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
-import greeting from '../data/greeting';
-import works from '../data/works';
-import expirience from '../data/expirience';
-import skills from '../data/skills';
-import education from '../data/education';
-import contacts from '../data/contacts';
+
+import greeting from 'data/greeting';
+import works from 'data/works';
+import expirience from 'data/expirience';
+import skills from 'data/skills';
+import education from 'data/education';
+import contacts from 'data/contacts';
 
 export const AppContext = React.createContext({
   greeting: {},

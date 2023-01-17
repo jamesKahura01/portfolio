@@ -1,9 +1,10 @@
 import React from 'react';
-import ImgStyles from './Img.module.scss';
-import home from './pages/home.webp';
-import works from './pages/works.webp';
-import about from './pages/about.webp';
-import contacts from './pages/contacts.webp';
+
+import classes from './PageBackground.module.scss';
+import home from 'assets/img/pages/home.webp';
+import works from 'assets/img/pages/works.webp';
+import about from 'assets/img/pages/about.webp';
+import contacts from 'assets/img/pages/contacts.webp';
 
 const PageBackground = ({ id }) => {
 
@@ -14,7 +15,7 @@ const PageBackground = ({ id }) => {
         <img
           src={home}
           alt={id}
-          className={ImgStyles.page}
+          className={classes.page}
         />
       );
 
@@ -24,7 +25,7 @@ const PageBackground = ({ id }) => {
         <img
           src={works}
           alt={id}
-          className={ImgStyles.page}
+          className={classes.page}
         />
       );
 
@@ -34,7 +35,7 @@ const PageBackground = ({ id }) => {
         <img
           src={about}
           alt={id}
-          className={ImgStyles.page}
+          className={classes.page}
         />
       );
 
@@ -44,7 +45,7 @@ const PageBackground = ({ id }) => {
         <img
           src={contacts}
           alt={id}
-          className={ImgStyles.page}
+          className={classes.page}
         />
       );
 

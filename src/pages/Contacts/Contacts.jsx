@@ -1,9 +1,10 @@
 import React from "react";
+
 import styles from "./Contacts.module.scss";
-import { useAppContext } from "../../hooks/useAppContext";
-import PageBackground from "../../assets/img/PageBackground";
-import Contact from "../../components/Contact/Contact";
-import CVFile from "../../download/CV_Ihor_Kuchin.pdf";
+import { useAppContext } from "hooks/useAppContext";
+import PageBackground from "components/PageBackground/PageBackground";
+import Contact from "components/Contact/Contact";
+import CVFile from "download/CV_Ihor_Kuchin.pdf";
 
 const Contacts = () => {
   const { contacts } = useAppContext();

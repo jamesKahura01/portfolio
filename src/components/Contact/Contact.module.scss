@@ -1,7 +1,13 @@
-@import "../../styles/utils/vars";
-@import "../../styles/utils/mixins";
+@import "styles/utils/vars";
+@import "styles/utils/mixins";
 
 .contact {
+
+  &__icon {
+    display: block;
+    width: 30px;
+    height: 30px;
+  }
     
   &__info {
     display: flex;

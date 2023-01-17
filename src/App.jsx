@@ -1,11 +1,11 @@
 import React from "react";
 import { Navigate, Route, Routes } from "react-router-dom";
 
-import Layout from "./components/Layout/Layout";
-import Home from "./pages/Home/Home";
-import Works from "./pages/Works/Works";
-import About from "./pages/About/About";
-import Contacts from "./pages/Contacts/Contacts";
+import Layout from "components/Layout/Layout";
+import Home from "pages/Home/Home";
+import Works from "pages/Works/Works";
+import About from "pages/About/About";
+import Contacts from "pages/Contacts/Contacts";
 
 function App() {
   return (
