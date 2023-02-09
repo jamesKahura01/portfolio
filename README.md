@@ -10,12 +10,7 @@
 
 ### Summary:
 
-I'm a frontend developer with a desire to learn new and improve. Currently, I'm looking
-for a react developer position and new challenging projects to develop myself even
-more. I have profound knowledge of HTML and CSS including preprocessors (Sass/Less),
-a good understanding of responsive web design, and proficiency in working with native
-JavaScript (Typescript) & Frameworks (React, Redux, MobX, Next). Also, I'm ready to
-learn new technologies.
+> I’m a frontend developer with a desire to learn new and improve. Currently, I’m looking for a react developer position and new challenging projects to develop myself even more. I have profound knowledge of HTML and CSS including preprocessors (Sass/Less), a good understanding of responsive web design, and proficiency in working with native JavaScript, Typescript, frameworks and libraries like React, Redux, MobX, Vue, Pinia, TailwindCSS, MUI, Formik, etc. I’m always ready to learn new technologies.
 
 ### Skills
 >- Typescript, JavaScript (ES2015 - 2019) 
