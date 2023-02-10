@@ -4,7 +4,7 @@ import styles from "./Contacts.module.scss";
 import { useAppContext } from "hooks/useAppContext";
 import PageBackground from "components/PageBackground/PageBackground";
 import Contact from "components/Contact/Contact";
-import CVFile from "download/CV_Ihor_Kuchin.pdf";
+import CVFile from "download/CV_FE_Ihor_Kuchin.pdf";
 
 const Contacts = () => {
   const { contacts } = useAppContext();
@@ -25,7 +25,7 @@ const Contacts = () => {
               <a
                 href={CVFile}
                 className={styles.contacts__downloadButton}
-                download="CV_Ihor_Kuchin"
+                download="CV_FE_Ihor_Kuchin"
               >
                 Download _CV
               </a>
