@@ -1,6 +1,7 @@
 const skills = [
   "JavaScript (ES2015 - 2019), Typescript",
   "React, Redux, MobX",
+  "Vue, Vuex, Pinia",
   "HTML, CSS, Sass (SCSS), BEM",
   "Material UI, TailwindCSS, Bootstrap, Bulma",
   "Fetch, REST API, SQL",
